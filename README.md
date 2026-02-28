@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Campus Marketplace - Harbor
 
 A student services platform for verified university students to advertise services, fundraisers, and items for sale.
@@ -64,3 +65,6 @@ This project provides a public API to allow external applications to access and 
 	- Created Header and Footer Bar in navy blue 
 	- Changed hyperlinks for pages into neat tabs
 	- Made listings tabular in look as per the wireframe
+=======
+# Harbor
+>>>>>>> bff50b489c5820d6c1615ddf9a27b7061acbe25c
