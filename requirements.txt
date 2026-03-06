@@ -89,3 +89,10 @@ wheel==0.45.1
 whitenoise==6.11.0
 xxhash @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_4dqzb3ngyc/croot/python-xxhash_1737039922516/work
 yarl @ file:///opt/miniconda3/conda-bld/yarl_1762250141518/work
+
+
+torch>=2.0.0
+transformers>=4.30.0
+accelerate>=0.20.0
+
+python-dotenv>=1.0.0

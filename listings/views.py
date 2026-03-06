@@ -83,7 +83,6 @@ def listing_manual_view(request):
         """
     return HttpResponse(html)
 
-@login_required
 def listing_render_view(request):
     listings = Listing.objects.filter(is_active=True)
     return render(
